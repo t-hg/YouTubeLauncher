@@ -1,0 +1,3 @@
+#+title:YouTubeLauncher
+
+Application that launches YouTube in the default browser, preferably Brave.
